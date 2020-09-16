@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+}
+
+nav {
+    background: black;
+    color: white;
+    padding: 15px;
+}
+
+#controls {
+    padding: 10px;
+}
+
+.padding {
+    padding: 10px;
+}
+
+.danger {
+    background: red;
+    color: white;
+    border: 1px grey solid;
+    border-radius: 4px;
+    padding: 2.3px;
+}
+
+.border {
+    border: 1px black solid;
+}
